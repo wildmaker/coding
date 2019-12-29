@@ -1,2 +1,2 @@
 # coding
-Record learning code.
+It's not easy to learn program.
