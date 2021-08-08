@@ -5,5 +5,3 @@
 
 url = input("Enter your URL:")
 print("Domain:" + url.split('.')[1])
-
-def add_two_numbers()
