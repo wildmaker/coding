@@ -21,4 +21,4 @@ while q:
     Year = input("Year: ")
     Month = input("Month: ")
     Day = input("Day: ")
-    q = "q" != input("PRESS 'q' TO EXIT.")
+    # q = "q" != input("PRESS 'q' TO EXIT.")
